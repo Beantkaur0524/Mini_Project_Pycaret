@@ -23,7 +23,7 @@ A mini machine-learning project for Customer Churn Prediction using PyCaret. The
 # ROC Curves for Logistic Regression
 ![ROC Curve](ROC_Curve.png)
 
-📂 **Dataset:** [Telco Customer Churn Dataset](https://www.kaggle.com/datasets/blastchar/telco-customer-churn)
+# 📂 **Dataset:** [Telco Customer Churn Dataset](https://www.kaggle.com/datasets/blastchar/telco-customer-churn)
 
 # 🚀 How to Run the Code
 pip install -r requirements.txt
