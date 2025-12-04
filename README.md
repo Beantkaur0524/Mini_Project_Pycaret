@@ -25,3 +25,9 @@ A mini machine-learning project for Customer Churn Prediction using PyCaret. The
 
 📂 **Dataset:** [Telco Customer Churn Dataset](https://www.kaggle.com/datasets/blastchar/telco-customer-churn)
 
+# 🚀 How to Run the Code
+pip install -r requirements.txt
+
+streamlit run churn.py
+
+python -m streamlit run churn.py
