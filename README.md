@@ -21,5 +21,5 @@ A mini machine-learning project for Customer Churn Prediction using PyCaret. The
 ![Confusion Matrix](Linear_Regression_confusion_Matrix.png)
 
 # ROC Curves for Logistic Regression
-![ROC Curve](images/ROC_Curve.png)
+![ROC Curve](ROC_Curve.png)
 
