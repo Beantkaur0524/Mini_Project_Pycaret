@@ -18,4 +18,5 @@ A mini machine-learning project for Customer Churn Prediction using PyCaret. The
 - Streamlit UI for interactive model visualization
 
 # Confusion Matrix for Regression
-/images/Linear_Regression_confusion_Matrix.png
+![Confusion Matrix](Linear_Regression_confusion_Matrix.png)
+
