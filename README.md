@@ -1,5 +1,5 @@
 # Mini_Project_Pycaret
-A mini machine-learning project for Customer Churn Prediction using PyCaret. The project includes data preprocessing, automated model comparison, and evaluation. A Logistic Regression model is also applied as a simple baseline to observe its behavior on churn data. 
+This mini-project focuses on predicting Customer Churn using the Telco Customer Churn dataset. PyCaret’s classification module is used for automated model comparison, evaluation, and visualization. A **Logistic Regression model** was trained and evaluated using confusion matrix and ROC-AUC metrics.
 
 # 🚀 Project Highlights
 
