@@ -1,5 +1,5 @@
 # Mini_Project_Pycaret
-A mini machine-learning project for Customer Churn Prediction using PyCaret. The project includes data preprocessing, automated model comparison, and evaluation. A Linear Regression model is also applied as a simple baseline to observe its behavior on churn data. 
+A mini machine-learning project for Customer Churn Prediction using PyCaret. The project includes data preprocessing, automated model comparison, and evaluation. A Logistic Regression model is also applied as a simple baseline to observe its behavior on churn data. 
 
 # 🚀 Project Highlights
 
@@ -17,6 +17,9 @@ A mini machine-learning project for Customer Churn Prediction using PyCaret. The
 
 - Streamlit UI for interactive model visualization
 
-# Confusion Matrix for Regression
+# Confusion Matrix for Logistic Regression
 ![Confusion Matrix](Linear_Regression_confusion_Matrix.png)
+
+# ROC Curves for Logistic Regression
+![ROC Curve](images/ROC_Curve.png)
 
